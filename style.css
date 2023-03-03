@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+.header{
+    background-image:url(./Vector\ \(1\).png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
